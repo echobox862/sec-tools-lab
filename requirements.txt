@@ -1,0 +1,4 @@
+# sec-tools-lab 依赖
+# 01 port-scanner / 02 dict-generator / 04 web-login-bruter / 05 sqlmap-tamper(脚本本体) 均为纯标准库，无依赖。
+# 03 ssh-bruter 需要 paramiko：
+paramiko>=3.4
